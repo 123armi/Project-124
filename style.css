@@ -1,0 +1,40 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 25px;
+    margin-top: 5px;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    color: bisque;
+}
+
+.note
+{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.copyright_footer
+{
+    color: floralwhite;
+    position: fixed;
+    bottom: 0;
+    font-size: 13px;
+    width: 100%;
+    margin-left: 10px;
+    text-align: center;
+    background-color: darkred;
+    padding: 10px;
+}
+
+canvas
+{
+    border: 5px ridge white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-left: 5px;
+}
